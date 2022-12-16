@@ -41,10 +41,12 @@ Note:  I set the page limit to first 7 pages for scraping, you can increase it t
 
 - Automatically scrapping each page one by one.
 <br>
-<a href="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D"><img src="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D"><img src="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D" style="width: 700px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 - The output .csv file.
-![](https://github.com/Kens3i/Amazon-Multipage-Scrapper-using-Selenium-and-Beautiful-Soup/blob/main/gif/gif%202.gif?raw=true)
+<br>
+<a href="https://drive.google.com/uc?export=view&id=1JIR_h8Ixw3hPZ9MLiUM_bwkGT7FZBaUU"><img src="https://drive.google.com/uc?export=view&id=1JIR_h8Ixw3hPZ9MLiUM_bwkGT7FZBaUU" style="width: 700px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<br>
 
 
 ## Challenges
