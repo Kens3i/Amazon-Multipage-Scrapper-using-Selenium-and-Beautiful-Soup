@@ -40,7 +40,7 @@ Note:  I set the page limit to first 7 pages for scraping, you can increase it t
 ## Screenshots
 
 - Automatically scrapping each page one by one.
-![](https://github.com/Kens3i/Amazon-Multipage-Scrapper-using-Selenium-and-Beautiful-Soup/blob/main/gif/gif%201.gif?raw=true)
+![](https://drive.google.com/file/d/18WySl45vk8ncHxun3BlxSP5fDmMSoz0D/view?usp=sharing)
 
 - The output .csv file.
 ![](https://github.com/Kens3i/Amazon-Multipage-Scrapper-using-Selenium-and-Beautiful-Soup/blob/main/gif/gif%202.gif?raw=true)
