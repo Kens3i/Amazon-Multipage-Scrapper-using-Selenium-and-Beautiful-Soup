@@ -27,7 +27,7 @@ I would be using BeautifulSoup and Selenium to extract product information like 
 
 ## Workflow
 
-- **Opening** Chrome browser and **accessing** https://www.amazon.in/ via the Selenium.
+- **Opening** Chrome browser and **accessing** https://www.amazon.in/ via Selenium.
 - Getting the "Search Term" thourgh **user input**.
 - **Formatting** the url to a dynamic url where "Search Term" can be changed.
 - **Scraping** the *Product Names, Prices, Ratings, No. Of Items Sold and Link* for each of the products.
