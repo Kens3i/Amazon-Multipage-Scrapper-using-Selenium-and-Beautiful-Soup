@@ -40,9 +40,13 @@ Note:  I set the page limit to first 7 pages for scraping, you can increase it t
 ## Screenshots
 
 - Automatically scrapping each page one by one.
+<br>
 ![](https://media.giphy.com/media/9Tzi40JcZkijK38Frz/giphy.gif)
 
+<br>
+
 - The output .csv file.
+<br>
 ![](https://media.giphy.com/media/ZOBfxmH7B4sTb7GFIg/giphy.gif)
 
 
