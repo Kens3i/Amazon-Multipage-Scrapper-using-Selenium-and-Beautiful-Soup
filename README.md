@@ -41,13 +41,11 @@ Note:  I set the page limit to first 7 pages for scraping, you can increase it t
 
 - Automatically scrapping each page one by one.
 <br>
-<a href="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D"><img src="https://drive.google.com/uc?export=view&id=18WySl45vk8ncHxun3BlxSP5fDmMSoz0D" style="width: 500px; max-width: 100%; height: auto" title="Click To View Image" /></a>
-
+![](https://media0.giphy.com/media/9Tzi40JcZkijK38Frz/giphy.gif)
 
 - The output .csv file.
 <br>
-<a href="https://drive.google.com/uc?export=view&id=1JIR_h8Ixw3hPZ9MLiUM_bwkGT7FZBaUU"><img src="https://drive.google.com/uc?export=view&id=1JIR_h8Ixw3hPZ9MLiUM_bwkGT7FZBaUU" style="width: 500px; max-width: 100%; height: auto" title="Click To View Image." /></a>
-
+![](https://media3.giphy.com/media/ZOBfxmH7B4sTb7GFIg/giphy.gif)
 
 
 ## Challenges
